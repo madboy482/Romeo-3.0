@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/6e56d68f855cff91245e1.jpg">
+  <img src="https://telegra.ph/file/3624a6bfe48617ff6a907.jpg">
 </p>
 
 # Romeo
