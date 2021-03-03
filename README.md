@@ -15,15 +15,15 @@
 <a href="http://hits.dwyl.com/madboy482/Romeo" alt="HitCount"> <img src="http://hits.dwyl.com/madboy482/Romeo.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/animekaizoku/saitamarobot?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/animekaizoku/saitamarobot" /> </a>
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/animekaizoku/saitamarobot?style=flat&logo=github" /> </a>
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/AnimeKaizoku/SaitamaRobot?label=Forks&logo=github" /> </a>
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/animekaizoku/saitamarobot?color=success" /> </a>
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/animekaizoku/saitamarobot?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/madboy482/Romeo" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/madboy482/Romeo?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/madboy482/Romeo" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/madboy482/Romeo" /> </a>
+<a href="https://github.com/madboy482/Romeo/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/madboy482/Romeo?style=flat&logo=github" /> </a>
+<a href="https://github.com/madboy482/Romeo/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/madboy482/Romeo?label=Forks&logo=github" /> </a>
+<a href="https://github.com/madboy482/Romeo" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/madboy482/Romeo?color=success" /> </a>
+<a href="https://github.com/madboy482/Romeo" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/madboy482/Romeo?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/animekaizoku/saitamarobot?include_prereleases?style=flat&logo=github" /> </a>
+<a href="https://github.com/madboy482/Romeo" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/madboy482/Romeo?include_prereleases?style=flat&logo=github" /> </a>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/animekaizoku/saitamarobot" /> </a>
