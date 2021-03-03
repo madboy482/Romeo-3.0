@@ -12,7 +12,7 @@
 <a href="https://app.codacy.com/gh/madboy482/Romeo?utm_source=github.com&utm_medium=referral&utm_content=madboy482/Romeo&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
 <img src="https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51" /> </a>
 <a href="https://github.com/madboy482/Romeo" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/madboy482/Romeo" /> </a>
-<a href="http://hits.dwyl.com/animekaizoku/saitamarobot" alt="HitCount"> <img src="http://hits.dwyl.com/animekaizoku/saitamarobot.svg" /> </a>
+<a href="http://hits.dwyl.com/madboy482/Romeo" alt="HitCount"> <img src="http://hits.dwyl.com/madboy482/Romeo.svg" /> </a>
 </p>
 <p align="center">
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/animekaizoku/saitamarobot?style=flat&logo=github&color=success" /> </a>
